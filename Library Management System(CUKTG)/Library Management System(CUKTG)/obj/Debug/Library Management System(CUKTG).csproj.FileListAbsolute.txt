@@ -1,0 +1,19 @@
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\bin\Debug\Library Management System(CUKTG).exe.config
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\bin\Debug\Library Management System(CUKTG).exe
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\bin\Debug\Library Management System(CUKTG).pdb
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library Management System(CUKTG).csprojResolveAssemblyReference.cache
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library_Management_System_CUKTG_.Add_New_Books.resources
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library_Management_System_CUKTG_.Form1.resources
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library_Management_System_CUKTG_.Home.resources
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library_Management_System_CUKTG_.Properties.Resources.resources
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library Management System(CUKTG).csproj.GenerateResource.Cache
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library Management System(CUKTG).exe
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library Management System(CUKTG).pdb
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library_Management_System_CUKTG_.View_Books.resources
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library_Management_System_CUKTG_.Add_Students.resources
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library_Management_System_CUKTG_.View_Students_Information.resources
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library_Management_System_CUKTG_.Issue_Books.resources
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library_Management_System_CUKTG_.Return_Books.resources
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library_Management_System_CUKTG_.About.resources
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library_Management_System_CUKTG_.Loadind_Form.resources
+F:\c#\Library Management System(CUKTG)\Library Management System(CUKTG)\obj\Debug\Library_Management_System_CUKTG_.ChangePassword.resources
